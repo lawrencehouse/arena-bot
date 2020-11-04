@@ -51,4 +51,4 @@ client.on('message', message => {
 
 // Keep client.login on bottom
 
-client.login('NzY3NTAxMjQwNjc3Njk1NDk4.X4y1Ow.A-ngWwEgRQzL1at1nosPiJtjiZg') //Bot Token
+client.login(') //Bot Token
